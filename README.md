@@ -52,8 +52,6 @@
 </p>
 <br />
 
-<!-- About Section -->
- # About me
  
 <p>
  📧 &emsp; Reach me anytime: shiani@outlook.com<br/><br/>
