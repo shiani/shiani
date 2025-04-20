@@ -24,7 +24,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am python - django web developer from <b>Tehran</b> 」
+    「 I am python - web developer  」
     <br>
     <br>
   </samp>
